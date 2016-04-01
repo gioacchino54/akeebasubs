@@ -1,0 +1,1 @@
+ 1054 Unknown column 'Array' in 'where clause' SQL=SELECT * FROM #__akeebasubs_subscriptions WHERE `akeebasubs_subscription_id` = Array AND (`akeebasubs_subscription_id` IN ('1')) ORDER BY `akeebasubs_subscription_id` DESC
